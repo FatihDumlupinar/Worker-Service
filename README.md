@@ -11,7 +11,7 @@ Net Core 5 Worker Service ile Windows Service uygulması
   ```
   - Hizmeti başlatmak için
   ```
-  sc start TestService
+  sc start WorkerService
   ```
   
 ## Uygulamının görüntüleri
