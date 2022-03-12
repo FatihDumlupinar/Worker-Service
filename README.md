@@ -2,7 +2,7 @@
 Net Core 5 Worker Service ile Windows Service uygulması
 
 ## Windows kurumlumu için
-1. Exe Dosyasını <a id="raw-url" href="https://github.com/FatihDumlupinar/Worker-Service/blob/master/Dosyalar/VeriketService.exe">İndir</a>
+1. Exe Dosyasını <a id="raw-url" href="https://github.com/FatihDumlupinar/Worker-Service/raw/master/Dosyalar/VeriketService.exe" download>İndir</a>
 2. Windows Hizmetlere eklemek için : 
  - Komut istemini(Cmd) Yönetici olarak açın.
  - Aşağıdaki kodu yazın 
